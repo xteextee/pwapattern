@@ -3,9 +3,9 @@
 header('Content-Type: application/json');
 
 // 1. Conectarea la baza de date (inlocuieste cu datele tale)
-$servername = "db";
-$username = "generalsql";
-$password = "Use_A_Very_Strong_Password_123!"; // Pune parola ta de la MySQL daca ai una
+$servername = "";
+$username = "";
+$password = ""; // Pune parola ta de la MySQL daca ai una
 $dbname = "pwa_app";
 
 // Cream conexiunea
