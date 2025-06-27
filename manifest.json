@@ -1,0 +1,16 @@
+{
+  "name": "Aplicație Notițe PWA",
+  "short_name": "Notițe",
+  "description": "O aplicație simplă de notițe care funcționează și offline.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3367D6",
+  "icons": [
+    {
+      "src": "/images/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
